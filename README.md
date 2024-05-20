@@ -1,4 +1,4 @@
-![Theorem Proof](https://github.com/sourceduty/Theorem_Proof/assets/123030236/d4c4a762-83bc-41f6-b0cf-04385daa4167)
+https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-9748-b0118d69c61c
 
 [Theorem Proof](https://chatgpt.com/g/g-WuFNdZgXe-theorem-proof) is an advanced automated theorem-proving proof assistant developed to facilitate the construction and verification of mathematical proofs. It leverages sophisticated logical reasoning and formal methods to assist users through the intricate process of proving mathematical theorems. By guiding users step-by-step, 'Theorem Proof' ensures that each logical step is sound and adheres to the principles of formal logic and mathematical rigor. Its capabilities extend to a wide range of mathematical domains, making it a versatile tool for both educational purposes and advanced research.
 
