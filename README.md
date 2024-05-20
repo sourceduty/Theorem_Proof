@@ -9,7 +9,6 @@
 
 > Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
 
-- Einstein's development of special relativity took place over a period of a few years leading up to 1905.
 - A theory provides a broad explanatory framework, while a theorem provides a specific, proven result within that framework. They do not transform into one another; rather, they complement each other.
 - Theorems can be used within the development of a theory. For example, in physics, mathematical theorems may be used to derive specific predictions or results that support a broader theoretical framework.
 
