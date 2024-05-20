@@ -18,8 +18,6 @@
 
 [Pythagorean_Theorem_Proof.txt](https://github.com/sourceduty/Theorem_Proof/files/15377931/Pythagorean_Theorem_Proof.txt)
 
-[special_relativity_proof.txt](https://github.com/sourceduty/Theorem_Proof/files/15378091/special_relativity_proof.txt)
-
 #
 ### Related Links
 
