@@ -9,6 +9,7 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 > Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
 
 - Einstein's development of special relativity took place over a period of a few years leading up to 1905.
+- A theory provides a broad explanatory framework, while a theorem provides a specific, proven result within that framework. They do not transform into one another; rather, they complement each other.
 
 #
 ### Example Usage
@@ -21,6 +22,8 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 ### Related Links
 
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
+<br>
+[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
