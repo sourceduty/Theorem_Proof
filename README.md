@@ -8,7 +8,7 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 
 > Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
 
-> *"It can be said that Einstein's development of special relativity took place over a period of a few years leading up to 1905."*
+- It can be said that Einstein's development of special relativity took place over a period of a few years leading up to 1905.
 
 #
 ### Example Usage
