@@ -5,15 +5,15 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 'Theorem Proof' can help users in several ways. Firstly, it offers detailed guidance on constructing proofs, suggesting possible approaches and verifying the correctness of each step taken. This can be particularly useful for students learning to write proofs, as it helps them understand the underlying logic and structure required for rigorous mathematical reasoning. For researchers and professionals, 'Theorem Proof' provides a reliable means of checking the validity of complex proofs, ensuring that no logical errors have been overlooked. Additionally, it can aid in exploring alternative proof strategies and discovering new insights, thus enhancing the overall process of mathematical problem-solving.
 
 #
+
+> Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
+
+#
 ### Example Usage
 
 [Pythagorean_Theorem_Proof.txt](https://github.com/sourceduty/Theorem_Proof/files/15377931/Pythagorean_Theorem_Proof.txt)
 
 [special_relativity_proof.txt](https://github.com/sourceduty/Theorem_Proof/files/15378091/special_relativity_proof.txt)
-
-#
-
-> Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
 
 #
 ### Related Links
