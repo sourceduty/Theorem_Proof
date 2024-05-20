@@ -12,6 +12,10 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 [special_relativity_proof.txt](https://github.com/sourceduty/Theorem_Proof/files/15378091/special_relativity_proof.txt)
 
 #
+
+> Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
+
+#
 ### Related Links
 
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
