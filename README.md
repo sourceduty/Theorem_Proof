@@ -5,11 +5,13 @@ https://github.com/sourceduty/Theorem_Proof/assets/123030236/7a12cd55-77ff-4a74-
 'Theorem Proof' can help users in several ways. Firstly, it offers detailed guidance on constructing proofs, suggesting possible approaches and verifying the correctness of each step taken. This can be particularly useful for students learning to write proofs, as it helps them understand the underlying logic and structure required for rigorous mathematical reasoning. For researchers and professionals, 'Theorem Proof' provides a reliable means of checking the validity of complex proofs, ensuring that no logical errors have been overlooked. Additionally, it can aid in exploring alternative proof strategies and discovering new insights, thus enhancing the overall process of mathematical problem-solving.
 
 #
+# Notes
 
 > Alex: *"Proving theorems using AI is one of the smartest things that I have done using ChatGPT."*
 
 - Einstein's development of special relativity took place over a period of a few years leading up to 1905.
 - A theory provides a broad explanatory framework, while a theorem provides a specific, proven result within that framework. They do not transform into one another; rather, they complement each other.
+- Theorems can be used within the development of a theory. For example, in physics, mathematical theorems may be used to derive specific predictions or results that support a broader theoretical framework.
 
 #
 ### Example Usage
