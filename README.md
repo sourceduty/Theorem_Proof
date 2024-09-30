@@ -23,6 +23,8 @@
 [Math Simulator](https://github.com/sourceduty/Math_Simulator)
 <br>
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
